@@ -20,7 +20,7 @@
 }
 
 body{
-    background-image: linear-gradient(to left, var(--cora), var(--corc));
+    background-image: linear-gradient(to left, var(--cora)60%, var(--corc));
 }
 
 header{
